@@ -19,7 +19,6 @@
       .benifits {
       background-color: blackx;
       color: text-slate-300;
-      border: 2px solid black;
       margin: 20px;
       padding: 20px;
       text-align: justify-all;
@@ -29,7 +28,6 @@
       .getstarted {
       background-color: blackx;
       color: white;
-      border: 2px solid black;
       margin: 20px;
       padding: 20px;
       text-align: justify-all;
@@ -38,7 +36,6 @@
       .testimonial {
       background-color: blackx;
       color: text-slate-300;
-      border: 2px solid black;
       margin: 20px;
       padding: 20px;
       text-align: justify-all;
@@ -47,7 +44,6 @@
 	        .test {
       background-color: blackx;
       color: text-slate-300;
-      border: 2px solid black;
       margin: 20px;
       padding: 20px;
       text-align: justify-all;
@@ -170,7 +166,7 @@ Menu open: "visible", Menu closed: "invisible"
          </ol>
       </div>
    </div>
-   <div class="mt-8 p-4 sm:m-4 sm:p-8 sm:pb-12 lg:m-14 lg:p-14 lg:pb-24 bg-black text-slate-300">
+   <div class="mt-8 p-4 sm:m-4 sm:p-8 sm:pb-12 lg:m-14 lg:p-14 lg:pb-24  text-slate-300">
       <div class="getstarted">
          <h3 class="text-3xl md:text-6xl mb-8 font-bold justify-center">WANNA GET STARTED?</h3>
          <p class="text-slate-300 text-2xl mb-10"> Come check us out and stay for a free class!</p>
@@ -236,7 +232,7 @@ Menu open: "visible", Menu closed: "invisible"
    <div class="col-span-2 text-white">To start learning this great art please come check out our gym.</div>
    <div class=""><CTAButton title="Find Us" href="/"/> --> <!-- TODO: Need a link --> <!-- </div>
 </div> -->
-<div class="mt-8 p-4 sm:m-4 sm:p-8 sm:pb-12 lg:m-14 lg:p-14 lg:pb-24  bg-black text-slate-300">
+<div class="mt- p-4 sm:m-4 sm:p-8 sm:pb-12 lg:m-14 lg:p-14 lg:pb-24  bg-neutral-700 text-slate-300">
    <h2 class="text-xl font-bold mb-10">TESTIMONIALS</h2>
    <div class="testimonial">
       <div class="col-span-3">
