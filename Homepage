@@ -240,7 +240,7 @@ Menu open: "visible", Menu closed: "invisible"
    <h2 class="text-xl font-bold mb-10">TESTIMONIALS</h2>
    <div class="testimonial">
       <div class="col-span-3">
-         <h2 class="text-3xl md:text-8xl mb-20 font-bold text-neutral-400" style="text-shadow: -1px 1px 0px #c41230">WHAT OUR STUDENTS SAY</h2>
+         <h2 class="md:text-7xl mb-20 font-bold text-neutral-400" style="text-shadow: -1px 1px 0px #c41230">WHAT OUR STUDENTS SAY</h2>
 		 <img class="h-32 w-auto" src="./Class Schedule _ HybridGyms.com_files/Hybrid-Gym-logo_dark-circle-transparent.webp" alt="Hybrid's logo used as a placeholder for the endorsement">
          <p class="mb-8 ">We love Hybrid! My oldest son trained here and now 2 of my other kiddos are just starting. We knew right where we wanted to be. HYBRID!</p>
          <p class="text-neutral-300 text-white">WES YEAMAN</p>
@@ -260,7 +260,7 @@ Menu open: "visible", Menu closed: "invisible"
    <h2 class="text-xl font-bold mb-10">TESTIMONIALS</h2>
    <div class="testimonial">
    <div class="col-span-3">
-      <h2 class="text-3xl md:text-8xl mb-20 font-bold text-neutral-400 text-align text-center" style="text-shadow: -2px 2px 0px #c41230">HARD WORK ALWAYS PAYS OFF</h2>
+      <h2 class="md:text-7xl mb-20 font-bold text-neutral-400 text-align text-center" style="text-shadow: -2px 2px 0px #c41230">HARD WORK ALWAYS PAYS OFF</h2>
       <div class="gap-8 columns-2 md:columns-3">
 		<img class="w-full aspect-auto mb-6" src="https://hybridgyms.com/images/gallery/IMG_4074-300x225.webp">
 		<img class="w-full aspect-auto mb-6" src="https://hybridgyms.com/images/gallery/IMG_1461-300x225.webp"> 
