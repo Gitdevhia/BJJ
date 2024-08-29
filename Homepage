@@ -258,11 +258,20 @@ Menu open: "visible", Menu closed: "invisible"
 </div>
 <div class="mt-8 p-4 sm:m-4 sm:p-8 sm:pb-12 lg:m-14 lg:p-14 lg:pb-24 bg-black text-slate-300">
    <h2 class="text-xl font-bold mb-10">TESTIMONIALS</h2>
-   <div class="testimonial"><div class="col-span-3">
+   <div class="testimonial">
+   <div class="col-span-3">
       <h2 class="text-3xl md:text-8xl mb-20 font-bold text-neutral-400 text-align text-center" style="text-shadow: -2px 2px 0px #c41230">HARD WORK ALWAYS PAYS OFF</h2>
       <div class="gap-8 columns-2 md:columns-3">
-         <img class="w-full aspect-auto mb-6" src="./HybridGyms-home_files/IMG_4074-300x225.webp"> <img class="w-full aspect-auto mb-6" src="./HybridGyms-home_files/IMG_1461-300x225.webp"> <img class="w-full aspect-auto mb-6" src="./HybridGyms-home_files/Hybrid-Gym-competition-winners-256x300.webp"> <img class="w-full aspect-auto mb-6" src="./HybridGyms-home_files/Hybrid-Gym-competition-standing-230x300.webp"> <img class="w-full aspect-auto mb-6" src="./HybridGyms-home_files/Hybrid-Gym-competition-standing-2-300x197.webp"> <img class="w-full aspect-auto mb-6" src="./HybridGyms-home_files/Hybrid-Gym-competition-on-back-227x300.webp"> <img class="w-full aspect-auto mb-6" src="./HybridGyms-home_files/Hybrid-Gym-competition-match-winner-216x300.webp"> <!-- <img class="w-full aspect-auto mb-6" src="/images/gallery/Hybrid-Gym-competition-match-winner-2-1024x879.webp" /> --> <img class="w-full aspect-auto mb-6" src="./HybridGyms-home_files/Hybrid-Gym-competition-half-guard-300x262.webp">
-      </div>
+		<img class="w-full aspect-auto mb-6" src="https://hybridgyms.com/images/gallery/IMG_4074-300x225.webp">
+		<img class="w-full aspect-auto mb-6" src="https://hybridgyms.com/images/gallery/IMG_1461-300x225.webp"> 
+		<img class="w-full aspect-auto mb-6" src="https://hybridgyms.com/images/gallery/Hybrid-Gym-competition-winners-256x300.webp">
+		<img class="w-full aspect-auto mb-6" src="https://hybridgyms.com/images/gallery/Hybrid-Gym-competition-standing-230x300.webp">
+		<img class="w-full aspect-auto mb-6" src="https://hybridgyms.com/images/gallery/Hybrid-Gym-competition-standing-2-300x197.webp">
+		<img class="w-full aspect-auto mb-6" src="https://hybridgyms.com/images/gallery/Hybrid-Gym-competition-on-back-227x300.webp">
+		<img class="w-full aspect-auto mb-6" src="https://hybridgyms.com/images/gallery/Hybrid-Gym-competition-match-winner-216x300.webp">
+		<!-- <img class="w-full aspect-auto mb-6" src="https://hybridgyms.com/images/gallery/Hybrid-Gym-competition-match-winner-2-1024x879.webp" /> -->
+		<img class="w-full aspect-auto mb-6" src="https://hybridgyms.com/images/gallery/Hybrid-Gym-competition-half-guard-300x262.webp">
+		</div>
    </div>
 </div>
 </main>
