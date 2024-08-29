@@ -241,16 +241,16 @@ Menu open: "visible", Menu closed: "invisible"
    <div class="testimonial">
       <div class="col-span-3">
          <h2 class="text-3xl md:text-8xl mb-20 font-bold text-neutral-400" style="text-shadow: -1px 1px 0px #c41230">WHAT OUR STUDENTS SAY</h2>
-         <img width="100" height="100" src="./HybridGyms-home_files/Hybrid-Gym-logo_dark-circle-transparent.webp" alt="Hybrid&#39;s logo used as a placeholder for the endorsement">
+		 <img class="h-32 w-auto" src="./Class Schedule _ HybridGyms.com_files/Hybrid-Gym-logo_dark-circle-transparent.webp" alt="Hybrid's logo used as a placeholder for the endorsement">
          <p class="mb-8 ">We love Hybrid! My oldest son trained here and now 2 of my other kiddos are just starting. We knew right where we wanted to be. HYBRID!</p>
          <p class="text-neutral-300 text-white">WES YEAMAN</p>
          <p class="text-center text-[6vw] md:text-[2.5vw] mt-0 mb-0 md:mt-0"> 6 months ago / Children's Brazilian Jiu-Jitsu Classes</p>
       </div>
-      <img width="100" height="100" src="./HybridGyms-home_files/Hybrid-Gym-logo_dark-circle-transparent.webp" alt="Hybrid&#39;s logo used as a placeholder for the endorsement">
+      <img class="h-32 w-auto" src="./Class Schedule _ HybridGyms.com_files/Hybrid-Gym-logo_dark-circle-transparent.webp" alt="Hybrid's logo used as a placeholder for the endorsement">
       <p class="mb-8 ">I've been with Hybrid Gym for over a year now, and I can honestly say that I'm hooked on Jiu-Jitsu. Not only is it a great form of self-defense, but the instructors and owner make the school feel more like a family than anything.</p>
       <p class="text-neutral-300 text-white">LINDSEY HELDSTAB</p>
       <p class="text-center text-[6vw] md:text-[2.5vw] mt-0 mb-0 md:mt-0"> 1 month ago / Foundations and Intermediate/Advanced Classes</p>
-      <img width="100" height="100" src="./HybridGyms-home_files/Hybrid-Gym-logo_dark-circle-transparent.webp" alt="Hybrid&#39;s logo used as a placeholder for the endorsement">
+		<img class="h-32 w-auto" src="./Class Schedule _ HybridGyms.com_files/Hybrid-Gym-logo_dark-circle-transparent.webp" alt="Hybrid's logo used as a placeholder for the endorsement">
       <p class="mb-8 ">I've been with Hybrid Gym for over a year now, and I can honestly say that I'm hooked on Jiu-Jitsu. Not only is it a great form of self-defense, but the instructors and owner make the schFantastic training, great instructors with specific input to help each individual grow in their game. I've tried 4 martial arts gyms in the area, and this is (in my opinion) the best of them. Close knit but extremely welcoming. Cannot recommend enough.</</p>
       <p class="text-neutral-300 text-white">JONATHAN REED</p>
       <p class="text-center text-[6vw] md:text-[2.5vw] mt-0 mb-0 md:mt-0"> 1 year ago / Foundations class</p>
